@@ -1,0 +1,11 @@
+1. LCD : LCD digunakan untuk menampilkan informasi dalam bentuk teks atau gambar sederhana akan ditampilkan pada LCD dan dapat mensetting baris yang akan digunakan berdasarkan sinyal yang diberikan ke LCD. modul ini menggunakan 2 digital, 1 ground, dan 1 VCC
+
+2. LED : LED digunakan sebagai indikator atau sumber cahaya berdasarkan sinyal yang diberikan ke LED, Lampu LED akan menyala dengan menggunakan 1 katoda (digital) dan 1 anoda (ground).
+
+3.  - pintu parkir otomatis menggunakan kartu.
+    - kunci kamar hotel menggunakan kartu nfc.
+    - vending machine.
+    - AC dalam mengatur suhu agar suhunya tetap stabil sesuai dengan yang diinginkan.
+    - Smart Lamp, lampu yang dapat dinyalakan atau diatur dengan menggunakan smartphone atau dengan waktu tertentu.
+
+4. project yang berupa sebuah sistem perpustakan pintar dengan memanfaatkan QRCode dan NFC. yang mana pada sistem tersebut menggunakan qrcode pada buku dan nfc pada kartu anggota perpustakan, sehingga ketika pengunjung perpustakaan meminjam buku akan menggunakan kartu anggotanya yang berbasis nfc untuk mengidentifikasi orang yang meminjam dan qrcode untuk mengidentifikasi buku apa yang dipinjam. kemudian akan tercatat pada sistem dan mempermudah penjaga perpustakaan dalam pencatatan peminjaman dan pengembalian buku. ketika pengembalian buku maka peminjam juga melakukan hal yang sama ketika halnya meminjam dengan men scan qrcode pada buku dan scan kartu anggotanya.
